@@ -70,7 +70,7 @@ This repository contains my personal Hyprland dotfiles, built upon the HyDE (Hyp
 2. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/yourusername/hyprland-dotfiles.git ~/.config/hypr
+   git clone https://github.com/ValisStamatis/hyprland-config.git ~/.config/hypr
    ```
 
 3. **Install Hyde:**
